@@ -303,7 +303,7 @@ __保留地址__是IANA在IP地址范围内，保留了一部分地址专门用�
 	![](http://i.imgur.com/pMk3kX8.jpg)[28]
 
 
-##参考文献和资料
+## 参考文献和资料
 
 [1] [icann - Number Resources - 《iana101-numbers》](https://icann.adobeconnect.com/p7d74qdis3o/?launcher=false&fcsContent=true&pbMode=normal)
 
