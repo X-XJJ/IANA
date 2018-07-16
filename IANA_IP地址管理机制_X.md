@@ -81,7 +81,7 @@ ___
 
 		AFRINIC的使命是提供专业、高效的互联网号码资源分布于非洲的互联网社区，支持整个非洲大陆的互联网技术的应用和发展，通过鼓励参与政策制定加强非洲的互联网自我治理。
 
-		[AFRINIC官方网站](http://afrinic.net/)
+	[AFRINIC官方网站](http://afrinic.net/)
 
  * **APNIC（Asia Pacific Network Information Centre)）**
 
@@ -95,7 +95,7 @@ ___
 
 		APNIC不参与管理域名系统（DNS）和不负责域名注册，而是与社区合作。与此同时，APNIC积极参与互联网基础设施的整个区域的发展，包括提供培训和教育服务，支持诸如根服务器部署等技术活动，以及参与其他区域和国际组织的合作等。
 
-		[APNIC官方网站](https://www.apnic.net/)
+	[APNIC官方网站](https://www.apnic.net/)
 
  * **ARIN（American Registry for Internet Numbers）**
  
@@ -107,11 +107,11 @@ ___
 
 		ARIN的任务是提供与各服务区内的互联网号码资源的技术协调和管理服务。参与全球互联网社群；促进其成员和各利益相关者在其区域内制定的政策决策；支持通过在其服务区域网络数字资源管理互联网的运行，协调发展的政策，通过社区网络数字资源管理，提出通过互联网信息服务。这些服务分为四个方面：注册、组织、政策开发和技术。
 
-		[ARIN官方网站](https://www.arin.net/)
+	[ARIN官方网站](https://www.arin.net/)
 
  * **LACNIC（the Latin American and Caribbean Internet Addresses Registry）** 
 
-		![](http://i.imgur.com/U28Y5L0.jpg)[16]
+	![](http://i.imgur.com/U28Y5L0.jpg)[16]
 
 		LACNIC（拉丁美洲和加勒比互联网地址注册机构）是一个国际非政府组织，负责分配和管理拉丁美洲和一些加勒比群岛的互联网号码资源（IPv4，IPv6）、自治系统号码，同时为其反向解析和其他资源。
 
@@ -119,21 +119,21 @@ ___
 
 		LACNIC致力于地区的互联网发展，通过积极合作的政策，促进和维护地方社区的利益，将使互联网创建有利于所有拉美和加勒比的国家与公民利益的环境，促使社会和谐与经济发展。其管理和运行的董事会由管理机构成员选举产生，超过4500个网络运营商在33个拉丁美洲和加勒比地区提供服务。
 
-		[LACNIC官方网站](http://www.lacnic.net/web/lacnic/ipv6)
+	[LACNIC官方网站](http://www.lacnic.net/web/lacnic/ipv6)
 
  * **RIPE NCC(Reseaux IP Europeens Network Coordination Center)**
  
-		![](http://i.imgur.com/gIIpExJ.jpg)[17]
+	![](http://i.imgur.com/gIIpExJ.jpg)[17]
 
 		RIPE NCC（RIPE网络协调中心）是欧洲、中东和中亚地区的区域互联网注册管理机构，分配和注册互联网号码资源块的互联网服务提供商（ISP）和其他组织。
 
 		RIPE NCC成立于2002年，是非盈利性的组织，致力于支持社区和更广泛的网络社区建设。它的成员包括主要的互联网服务提供商(ISP) 、电信组织、以及位于欧洲、中东和中亚部分地区的大型企业。
 
-		[RIPE官方网站](https://www.ripe.net/)
+	[RIPE官方网站](https://www.ripe.net/)
 
  * **NRO（The Nnmber Resource Oganization）**
 
-		![](http://i.imgur.com/k8oyHKz.jpg)[18]
+	![](http://i.imgur.com/k8oyHKz.jpg)[18]
 
 		NRO（号码资源组织）是一个协调机构，五个区域互联网注册管理机构（RIR）管理互联网号码资源包括IP地址和自治系统号码的分布。每个项目由其所在区域的网络社区。
 
@@ -141,7 +141,7 @@ ___
 
 		NRO的任务是积极贡献一个开放、稳定、安全的互联网，提供和促进一个协调的网络号码登记系统、多利益相关者模型与自底向上的政策过程、在网络治理中的权威性，从而协调和支持RIR的关节活动。
 
-		[NRO官方网站](https://www.nro.net/)
+	[NRO官方网站](https://www.nro.net/)
 
 * 除此之外，许多国家和地区都成立了**自己的域名系统管理机构**。
  * 各国或各地区自己的域名系统管理机构从RIRs获取IP地址资源后，负责在本国或本地区的分配与管理事务。
@@ -174,8 +174,8 @@ example-IPv6：
 
  * 各类地址的地址范围、指派范围和最大主机数：
 
-		![](http://i.imgur.com/Q3UB1KW.jpg)
-		![](http://i.imgur.com/qtT2QdB.png)
+	![](http://i.imgur.com/Q3UB1KW.jpg)
+	![](http://i.imgur.com/qtT2QdB.png)
 
  * IP地址管理机构在分配IP地址时，只分配网络号，而得到该网络号的单位可自行分配范围内的主机号。
 
@@ -187,11 +187,11 @@ example-IPv6：
 	 * 格式：32bit二进制数，与IP地址对应，网络号与子网号全为1，主机号全为0，如255.255.255.0；
  * IP地址的网络地址 = 子网掩码“与”IP地址（逐位相与） = {<网络号>，<子网号>，0}
 
-		![](http://i.imgur.com/QHo2BUq.jpg)[21]
+	![](http://i.imgur.com/QHo2BUq.jpg)[21]
 
  * 未划分子网的网络将使用默认子网掩码。
 
-		![](http://i.imgur.com/NHHz4Oz.jpg)[22]
+	![](http://i.imgur.com/NHHz4Oz.jpg)[22]
 
 
 * __目前使用的编址方法——构成超网__
@@ -201,7 +201,7 @@ example-IPv6：
 	 * 斜线记法："IP地址/前缀所占位数"，如128.14.35.7/20，表示此IP地址的前20位为网络前缀，后12位为主机号；
  * 无分类编址CIDR（Classless Inter-Domain Routing）：即无类别域间路由选择，构成超网。将网络前缀相同的、连续的IP地址组成一个“CIDR”地址块，即将一组较小的网络地址聚合，使其成为一个较大的单一路由表项，从而减少网络中路由表项的数量。
 
-		![](http://i.imgur.com/T5iyBOs.gif)[23]
+	![](http://i.imgur.com/T5iyBOs.gif)[23]
 [4][24]
 
 ***
