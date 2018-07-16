@@ -73,7 +73,7 @@ ___
 
  * **AFRINIC（The African Network Information Center）**
 
-		![](http://i.imgur.com/8mJPq3u.png)[13]
+	![](http://i.imgur.com/8mJPq3u.png)[13]
 
 		AFRINIC（非洲网络信息中心）是非洲的区域互联网注册机构（RIR），负责非洲地区的互联网号码资源如IP地址、ASN（自治系统号）的分配和管理。
 
@@ -85,7 +85,7 @@ ___
 
  * **APNIC（Asia Pacific Network Information Centre)）**
 
-		![](http://i.imgur.com/PTzJm5z.jpg)[14]
+	![](http://i.imgur.com/PTzJm5z.jpg)[14]
 
 		APNIC（亚太网络信息中心）是一个开放的、会员制的、不以营利为目的的组织，是五个区域互联网注册管理机构（RIR）之一，负责亚洲/太平洋地区IP地址的分配公平和负责任的管理相关资源。
 
@@ -99,7 +99,7 @@ ___
 
  * **ARIN（American Registry for Internet Numbers）**
  
-		![](http://i.imgur.com/xT8hCCZ.jpg)[15]
+	![](http://i.imgur.com/xT8hCCZ.jpg)[15]
 
 		ARIN（美国互联网号注册机构）提供加拿大，美国、北大西洋群岛和一些加勒比岛屿地区的互联网号码资源的技术协调和管理相关的服务，是一个非营利组织成员为基础的组织。
 
